@@ -8,9 +8,10 @@ Neste projeto temos o site da Barbearia Alura (nome fictício) que contém:
    - Contato: um formulário para o usuário preencher e até mesmo agendar horários e uma tabela com o horário de funcionamento;
 
 
-Alguns updates foram pensados afim de mostrar o crescimento no aprendizado, ainda mantendo algumas estruturas do projeto original:
+Alguns updates foram pensados afim de mostrar o crescimento no aprendizado, ainda mantendo algumas estruturas do projeto original;
+   
    De conteúdos já alterados temos:
-   - Mudanças no layout no geral tanto pra desktop
+   - Mudanças geral no layout para desktop;
    - Imagens foram alteradas;
    - Alguns conteúdos como horário de funcionamento, posicionamento do mapa foram alterados;
       
