@@ -1,0 +1,30 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body::-webkit-scrollbar {
+    width: 12px; /* largura da área de scroll */
+}
+  
+body::-webkit-scrollbar-track {
+    background: linear-gradient(#FEFEFE, #5f5f5f);  /* cor de fundo da área de scroll */   
+}
+  
+body::-webkit-scrollbar-thumb { /* caracteristicas da barra de rolamento */
+    background-color: #888888;   
+    border-radius: 5px;      
+}
+
+/* Banner da Home*/
+.container{
+    max-height: 450px;
+}
+
+.banner {
+    width: 100%;
+    height: auto;
+}
+
+
+
+
